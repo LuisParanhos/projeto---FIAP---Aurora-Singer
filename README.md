@@ -49,6 +49,15 @@ Aplica regras de faixa de segurança e define `PRONTO PARA DECOLAR` ou `DECOLAGE
 | Integridade estrutural | 1 (ok) |
 
 ---
+## Prints da Execução:
+## Dados da Telemetria primeira parte do código:
+<img width="774" height="717" alt="dadosTelemetria" src="https://github.com/user-attachments/assets/7424505d-d054-4c5f-9f3a-8ee651418efd" />
+
+## Dados da Telemetria segunda parte do código:
+<img width="805" height="530" alt="dadosTelemetria2" src="https://github.com/user-attachments/assets/00bcab77-b0e7-428a-a9d4-fadc6d21c6b0" />
+
+## Resultado Código da Telemetria:
+<img width="589" height="704" alt="resultadoCodigoDaTelemetria" src="https://github.com/user-attachments/assets/06f5430a-a67b-45c9-b815-3749f99524b9" />
 
 
 ## Instruções de Execução
