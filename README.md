@@ -59,6 +59,15 @@ Aplica regras de faixa de segurança e define `PRONTO PARA DECOLAR` ou `DECOLAGE
 ## Resultado Código da Telemetria:
 <img width="589" height="704" alt="resultadoCodigoDaTelemetria" src="https://github.com/user-attachments/assets/06f5430a-a67b-45c9-b815-3749f99524b9" />
 
+## Faixa de Segurança:
+<img width="674" height="328" alt="faixaDeSeguranca" src="https://github.com/user-attachments/assets/bfd0276f-2f43-48e4-9336-13667c9a998c" />
+
+## Aplicação da Faixa de Segurança:
+<img width="1077" height="476" alt="faixaDeSegurançaAplicacao" src="https://github.com/user-attachments/assets/9d9fbe70-6699-484d-b510-47c0698ff67e" />
+
+## Resultado Final do Código Aplicando todas as regras pré-definidas:
+<img width="643" height="540" alt="resultadoCodigoFinal" src="https://github.com/user-attachments/assets/01124161-1711-45d3-be69-32718dbf014f" />
+
 
 ## Instruções de Execução
 
