@@ -82,7 +82,7 @@ jupyter notebook auroraSinger.ipynb
 **Via Google Colab:**
 - Faça upload do arquivo `auroraSinger.ipynb` no Google Colab
 - Faça upload do arquivo `telemetria_decolagem.csv` na sessão
-- Execute todas as células com `Ctrl + F9`
+
 
 ### 4. Resultado esperado
 
