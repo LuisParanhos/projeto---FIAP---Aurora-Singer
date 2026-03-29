@@ -19,10 +19,10 @@ projeto/
 
 ## Como o Sistema Funciona
 
-**1. Análise da Telemetria**
+** Análise da Telemetria**
 Lê e interpreta os dados brutos de cada sensor, exibindo média de cada parâmetro monitorado junto com a quantidade de naves fora da faixa segura.
 
-**2. Análise Energética**
+** Análise Energética**
 Calcula se a carga disponível é suficiente para a decolagem considerando capacidade total, nível de energia atual, consumo estimado e perdas energéticas.
 
 ```
@@ -30,10 +30,10 @@ Carga disponível   = capacidade_total_kwh × (energia_pct / 100)
 Energia necessária = consumo_decolagem_kwh × (1 + perdas_pct / 100)
 ```
 
-**3. Status dos Módulos Críticos**
+**Status dos Módulos Críticos**
 Classifica cada nave com base nos sensores em três categorias: `ok`, `alerta` ou `critico`.
 
-**4. Decisão Final**
+**Decisão Final**
 Aplica regras de faixa de segurança e define `PRONTO PARA DECOLAR` ou `DECOLAGEM ABORTADA` para cada nave.
 
 ---
