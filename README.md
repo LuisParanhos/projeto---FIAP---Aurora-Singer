@@ -19,10 +19,10 @@ projeto/
 
 ## Como o Sistema Funciona
 
-** Análise da Telemetria**
+**Análise da Telemetria**
 Lê e interpreta os dados brutos de cada sensor, exibindo média de cada parâmetro monitorado junto com a quantidade de naves fora da faixa segura.
 
-** Análise Energética**
+**Análise Energética**
 Calcula se a carga disponível é suficiente para a decolagem considerando capacidade total, nível de energia atual, consumo estimado e perdas energéticas.
 
 ```
